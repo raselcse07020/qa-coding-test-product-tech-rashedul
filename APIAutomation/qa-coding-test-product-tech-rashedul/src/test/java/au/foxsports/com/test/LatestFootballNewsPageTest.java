@@ -48,5 +48,4 @@ public class LatestFootballNewsPageTest extends FoxSportsBaseTest {
     public void tearDown() {
         driver.quit();
     }
-
 }

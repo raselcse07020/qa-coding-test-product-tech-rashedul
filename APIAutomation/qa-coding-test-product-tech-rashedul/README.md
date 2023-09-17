@@ -1,4 +1,5 @@
 # used following below features by automating Scenario 2: Verify Article till now:
+
 1. Gradle Build Tool
 2. Added required dependencies
 3. TestNG Framework

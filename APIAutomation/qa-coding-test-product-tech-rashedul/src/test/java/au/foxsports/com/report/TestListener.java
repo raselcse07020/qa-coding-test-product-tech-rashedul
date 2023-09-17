@@ -79,4 +79,5 @@ public class TestListener implements ITestListener {
     public void onTestFailedButWithinSuccessPercentage(ITestResult iTestResult) {
         System.out.println("Test failed but it is in defined success ratio " + getTestMethodName(iTestResult));
     }
+
 }

@@ -1,5 +1,4 @@
 #Ignore unnecessary file during execution
-
 .gradle
 build/
 out/

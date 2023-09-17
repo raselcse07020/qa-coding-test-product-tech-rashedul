@@ -27,4 +27,5 @@ public class FoxSportHomePageTest extends FoxSportsBaseTest {
     public void tearDown() {
         driver.quit();
     }
+
 }

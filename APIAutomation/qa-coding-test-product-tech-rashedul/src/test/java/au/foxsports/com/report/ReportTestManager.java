@@ -26,4 +26,5 @@ public class ReportTestManager {
     public static synchronized void logText(String message) {
         getTest().log(Status.PASS, message);
     }
+
 }
