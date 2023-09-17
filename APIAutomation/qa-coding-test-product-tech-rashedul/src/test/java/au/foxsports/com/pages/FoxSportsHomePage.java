@@ -51,4 +51,5 @@ public class FoxSportsHomePage extends FoxSportsBaseTest {
     public String getPageTittle() {
         return driver.getTitle();
     }
+
 }

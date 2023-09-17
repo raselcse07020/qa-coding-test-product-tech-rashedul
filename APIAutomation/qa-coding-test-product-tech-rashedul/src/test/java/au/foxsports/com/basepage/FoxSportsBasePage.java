@@ -26,4 +26,5 @@ public abstract class FoxSportsBasePage {
         FileUtils.copyFile(new File(source), finalDestination);
         return destination;
     }
+
 }

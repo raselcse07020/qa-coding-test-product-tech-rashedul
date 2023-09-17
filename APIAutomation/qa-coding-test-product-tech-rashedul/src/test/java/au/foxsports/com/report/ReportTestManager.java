@@ -8,7 +8,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ReportTestManager {
-
     static Map<Integer, ExtentTest> extentTestMap = new HashMap<Integer, ExtentTest>();
     static ExtentReports extent = au.foxsports.com.report.ReportManager.getInstance();
 

@@ -6,7 +6,6 @@ import au.foxsports.com.util.GeneralUtil;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import java.io.IOException;
 
 public class LatestFootballNewsPageTest extends FoxSportsBaseTest {

@@ -99,5 +99,4 @@ public class FoxSportsBaseTest extends FoxSportsBasePage {
     public String getPageTittle() {
         return driver.getTitle();
     }
-
 }

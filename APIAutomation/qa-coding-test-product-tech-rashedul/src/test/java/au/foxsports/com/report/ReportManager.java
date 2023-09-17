@@ -30,5 +30,4 @@ public class ReportManager {
         }
         return extent;
     }
-
 }

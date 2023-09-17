@@ -49,7 +49,6 @@ public class LatestFootballNewsPage extends FoxSportsBaseTest {
     }
 
     public LatestFootballNewsPage validateLatestFootballNewsPageDescription() throws InterruptedException {
-
         //Verify Description text
         String descriptionTextVerify = descriptionTextEle.getText();
         try {
