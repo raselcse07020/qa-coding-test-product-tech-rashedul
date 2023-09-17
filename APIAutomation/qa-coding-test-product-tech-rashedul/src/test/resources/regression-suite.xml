@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Fox Sports Project's Test Suite">
+    <listeners>
+        <listener class-name="au.foxsports.com.report.TestListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="FoxSports-test-automation">
+        <classes>
+            <class name="au.foxsports.com.test.FoxSportHomePageTest"></class>
+            <class name="au.foxsports.com.test.LatestFootballNewsPageTest"></class>
+        </classes>
+    </test>
+</suite>
